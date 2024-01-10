@@ -1,0 +1,9 @@
+Package: com.nightwind.oldsettings
+Name: OldSettings
+Version: 0.0.1-experimental
+Architecture: iphoneos-arm
+Description: Return your Settings app back to iOS 14!
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
